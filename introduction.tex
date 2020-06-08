@@ -1,0 +1,31 @@
+ %!TEX root = coexistence_paper.tex
+
+
+\section{Introduction}\label{sec:introduction}
+
+As an emerging Internet-of-Things (IoT) technology, {\slshape Low-Power Wide-Area Network (LPWAN)} enables low-power (milliwatts) wireless devices to transmit at low data rates (kbps) over long distances (kms) using narrowband (kHz). With the fast growth of IoT, multiple competing LPWAN technologies are currently being developed such as LoRa~\cite{lorawan}, SigFox~\cite{sigfox}, IQRF~\cite{iqrf}, RPMA~\cite{rpma}, DASH7~\cite{dash7}, Weightless-N/P~\cite{weightless}, Telensa~\cite{telensa} in the ISM band,  and  EC-GSM-IoT~\cite{ecgsmiot}, NB-IoT~\cite{nbiot},  LTE Cat M1~\cite{cat, LTE_advancedpro},   5G~\cite{ngmn} in the licensed cellular band. To avoid the {\bf crowd} in the {\bf limited} ISM band and the {\bf cost} of licensed band, we designed {\bf\slshape  SNOW (Sensor Network Over White spaces)}, an LPWAN architecture  to support scalable wide-area IoT  over the TV white spaces \cite{ton_snow, snow, snow2}.  {\slshape White spaces} are the allocated but locally unused TV channels~\cite{FCC_first_order, fcc_second_order}. Compared to ISM band, they have much wider, less crowded spectrum in rural and most urban areas, with an abundance in rural areas 
+\cite{ws_sigcomm09}.
+ Previously, they were aimed mostly for broadband access by Microsoft~\cite{4Africa, MSRAfrica}, Google~\cite{GoogleAfrica}, standards bodies such as IEEE 802.11af~\cite{IEE802_af},   802.22~\cite{IEEE802_22},   802.19~\cite{IEE802_19}, and in research  
+\cite{saeed2017local, ws_dyspan08_kim, ws_mobicom08, ws_dyspan11, FIWEX, dbreq, database1, database2, database3, vehiclebased, hysim, zhang2015design, hasan2014gsm, kumar, harrison2015whitespace, ws_sigcomm09, WATCH, videostreaming, linkasymmetry, ws_mobicom13, ws_nsdi10}. 
+Our initial design and experiment showed the potential of SNOW for asynchronous, low power,   massively concurrent communications between numerous nodes and a base station (BS) over long distances, enabling scalable, wide-area IoT in white spaces \cite{ton_snow, snow, snow2}. 
+
+
+
+
+ 
+Rapid growth of LPWANs in the limited spectrum brings forth the challenge of coexistence.  
+The number of connected devices will exceed 50 billions by 2020 \cite{comparativestudylpwan}. 
+With Comcast recently announcing to add LPWAN radios on set-top boxes, LPWANs will be ubiquitous in the US~\cite{comcast}. 
+Ongoing standardization efforts such as IEEE 802.15.4m \cite{802154m} (extending 802.15.4~\cite{ieee154}) and Weightless-W \cite{weightless} may yield many LPWAN users in white spaces in the future. The coexistence problem will be severe in urban areas where spectrum can be congested due to numerous independent  networks. Today, LPWANs are not equipped to handle this impending challenge~\cite{LPWANSurvey222}. It is difficult to employ sophisticated media access control (MAC) protocol for low-power nodes. Studies show  a collision probability $\approx 1$ if 1000 nodes of LoRa, SigFox, or IQRF coexist \cite{lp1coexistence1, lorascale}. Another study shows significant throughput reduction when four LoRa networks coexist~\cite{voigt2016mitigating}. Coexistence handling for WiFi, traditional short-range wireless sensor network (WSN), and Bluetooth~\cite{survey802154, coexistence_survey, coexistence_24} will not work for LPWANs. Due to long range, their devices are subject to an unprecedented number of hidden nodes, requiring techniques that handle such coexistence while being highly energy-efficient. 
+
+
+
+We shall  develop theoretical foundations and systems  to address the above challenges for LPWAN.  Our preliminary work showed advantages of SNOW over other LPWANs in scalability and energy~\cite{snow, snow2, ton_snow}.  It allows the BS to receive concurrent transmissions made by the  nodes asynchronously. It also allows concurrent downlink communication. LoRa relies on time synchronized beacons and schedules for downlink communication.  Compared to cellular LPWANs, SNOW does not need wired infrastructure making it suitable in both rural and urban areas. With the rapid growth of IoT,  LPWANs will suffer from crowded spectrum due to long range, making it  critical to exploit white spaces.  
+
+
+ We propose a novel approach based on Reinforcement Learning to handle coexistence with many independent networks.  This is done by developing an efficient  Q-learning framework that is practical at low-power nodes. This would be the {\bf first}  Q-learning approach for LPWAN and for handling coexistence for any low-power network. This framework can be adopted for other (non-cellular) LPWANs with minor modification.
+ 
+ 
+ \revise{The paper is organized as follows. Section \ref{sec:related} describes related work. .........   so on.}
+
+

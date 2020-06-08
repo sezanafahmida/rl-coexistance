@@ -1,0 +1,9 @@
+ %!TEX root = coexistence_paper.tex
+
+
+ 
+ \section{Related Work and New Challenges} 
+Limited power budget of LPWAN nodes makes it difficult to adopt sophisticated MAC.   
+Hence, SigFox and LoRa resort to ALOHA~\cite{tanenbaum} with no collision avoidance.  SNOW currently uses a lightweight CSMA/CA approach. While such lightweight protocols provide energy efficiency, they cannot handle coexistence while low-power transmissions are easily subject to interference.  Coexistence study through simulations revealed that using multiple gateways in distant places can improve some throughput in LoRa~\cite{voigt2016mitigating}. This trivial approach needs more infrastructure support and cost while the gain is marginal. {\slshape Choir} \cite{Choir} is a reactive and PHY-layer approach for handling dense deployment of LoRa in urban areas which leverages on resolving the collided packets. In an uncoordinated environment where packets from many unknown networks can collide, such an approach will not work. The study in \cite{ICC_coexistence}  uses Poisson cluster process to model LoRa dense networks but does not propose coexistence handling. 
+While there exists much work on wireless coexistence considering WiFi, WSN, and Bluetooth (see  surveys~\cite{survey802154, coexistence_survey, coexistence_24}), it will not work well for LPWANs. Due to their large coverage domains, LPWAN devices can be subject to an unprecedented number of hidden terminals. 
+With their rapid growth while the spectrum is limited, coexistence will be a severe problem and new techniques that are both energy efficient and capable of handling coexistence must be developed. 

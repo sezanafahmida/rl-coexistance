@@ -1,0 +1,182 @@
+\documentclass[sigconf]{acmart}
+
+\usepackage{booktabs} % For formal tables
+
+\usepackage{graphicx, url}
+\usepackage{balance}
+\usepackage{subfigure,wrapfig}
+\usepackage{comment}
+\usepackage{subfigure, color, colortbl}
+\usepackage{amssymb,amsmath}
+\usepackage{epstopdf}
+
+%\usepackage{showframe,subcaption,graphicx}
+%\usepackage{enumitem}
+
+
+\newcommand*{\revise}{\textcolor{blue}}
+\definecolor{LightCyan}{rgb}{0.0,1,1}
+\definecolor{LightGray}{rgb}{0.8,0.8,0.8}
+
+\newcommand*{\edit}{\textcolor{red}}
+
+% Copyright
+%\setcopyright{none}
+%\setcopyright{acmcopyright}
+%\setcopyright{acmlicensed}
+\setcopyright{rightsretained}
+%\setcopyright{usgov}
+%\setcopyright{usgovmixed}
+%\setcopyright{cagov}
+%\setcopyright{cagovmixed}
+
+%
+%% DOI
+%\acmDOI{10.475/123_4}
+%
+%% ISBN
+%\acmISBN{123-4567-24-567/08/06}
+%
+%%Conference
+%\acmConference[SenSys'17]{ACM conference}{Nov 2017}{Delft, The Netherlands} 
+%\acmYear{1997}
+%\copyrightyear{2017}
+%
+%\acmPrice{15.00}
+
+
+\begin{document}
+\title{Handling Coexistence in LPWAN}
+
+%\titlenote{Produces the permission block, and
+%  copyright information}
+%\subtitle{Extended Abstract}
+%\subtitlenote{The full version of the author's guide is available as
+%  \texttt{acmart.pdf} document}
+
+
+%
+%\author{Abusayeed Saifullah}
+%\authornote{Co-first author.}
+%\affiliation{Wayne State University, Detroit, MI
+%%
+%%  \institution{The Th{\o}rv{\"a}ld Group}
+%%  \streetaddress{1 Th{\o}rv{\"a}ld Circle}
+%%  \city{Hekla} 
+%%  \country{Iceland}
+%  }
+%\email{saifullah@wayne.edu}
+%
+%\author{Mahbubur Rahman}
+%\authornotemark[1]
+%\affiliation{Wayne State University, Detroit, MI
+%%
+%%  \institution{The Th{\o}rv{\"a}ld Group}
+%%  \streetaddress{1 Th{\o}rv{\"a}ld Circle}
+%%  \city{Hekla} 
+%%  \country{Iceland}
+%  }
+%\email{r.mahbub@wayne.edu}
+%
+%\author{Dali Ismail}
+%\affiliation{Wayne State University, Detroit, MI
+%%
+%%  \institution{The Th{\o}rv{\"a}ld Group}
+%%  \streetaddress{1 Th{\o}rv{\"a}ld Circle}
+%%  \city{Hekla} 
+%%  \country{Iceland}
+%  }
+%\email{dali.ismail@wayne.edu}
+%
+%\author{Chenyang Lu}
+%\affiliation{Washington University, St Louis, MO
+%%  \institution{Brookhaven Laboratories}
+%%  \streetaddress{P.O. Box 5000}
+%  }
+%\email{lu@cse.wustl.edu}
+%
+%\author{Jie Liu}
+%\affiliation{Microsoft Research, Redmond, WA
+%%  \institution{NASA Ames Research Center}
+%%  \city{Moffett Field}
+%%  \state{California} 
+%%  \postcode{94035}
+%  }
+%\email{jie.liu@microsoft.com}
+%
+%\author{Ranveer Chandra}
+%\affiliation{Microsoft Research, Redmond, WA
+%%  \institution{NASA Ames Research Center}
+%%  \city{Moffett Field}
+%%  \state{California} 
+%%  \postcode{94035}
+%  }
+%\email{ranveer@microsoft.com}
+%
+%\renewcommand{\shortauthors}{A. Saifullah et al.}
+
+
+\begin{abstract}
+
+ As an emerging Internet-of-Things (IoT) technology, {\slshape Low-Power Wide-Area Network (LPWAN)} enables low-power wireless devices to transmit at low data rates over long distances using narrowband. While many competing LPWAN technologies have been developed recently, they have a number of {\bf major limitations} that make their adoption challenging. Specifically, rapid growth of LPWANs in the limited spectrum raises the challenge of {\bf \underline{coexistence}}.  It will be severe in urban areas where spectrum can be congested due to numerous independent  networks. Due to long range, LPWAN devices can be subject to an unprecedented number of hidden nodes. Today, they are not equipped to handle this impending challenge. It is difficult to employ sophisticated MAC for low-power nodes. We address this challenge in LPWAN by developing theoretical foundations  and systems for {\bf\slshape SNOW (Sensor Network Over White Spaces)}, an LPWAN architecture that exploits the TV white spaces for scalable IoT. Compared to cellular LPWANs, SNOW does not require wired infrastructure making it suitable in both rural and urban areas.  While we focus on SNOW to develop and evaluate the proposed protocols, the approach can be extended to other types of LPWANs for broader impacts on industry. We propose a novel approach based on Reinforcement Learning to handle coexistence with many independent networks.  This is done by developing an efficient  Q-learning framework that is practical at low-power nodes. This will be the {\bf first}  Q-learning approach for LPWAN and for handling coexistence in low-power network. 
+
+\end{abstract}
+
+
+\begin{CCSXML}
+<ccs2012>
+<concept>
+<concept_id>10003033.10003039</concept_id>
+<concept_desc>Networks~Network protocols</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+<concept>
+<concept_id>10010520.10010553.10003238</concept_id>
+<concept_desc>Computer systems organization~Sensor networks</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+</ccs2012>
+\end{CCSXML}
+
+\ccsdesc[500]{Networks~Network protocols}
+\ccsdesc[500]{Computer systems organization~Sensor networks}
+
+
+\copyrightyear{2017} 
+\acmYear{2017} 
+\setcopyright{acmcopyright}
+\acmConference{SenSys '17}{November 6--8, 2017}{Delft, Netherlands}\acmPrice{15.00}\acmDOI{10.1145/3131672.3131676}
+\acmISBN{978-1-4503-5459-2/17/11}
+
+% We no longer use \terms command
+%\terms{Theory}
+
+%\keywords{White space, Wireless Sensor Network, LPWAN, OFDM}
+
+\keywords{White space, LPWAN, Sensor Network, OFDM, MAC Protocol.}
+
+
+\maketitle
+
+\input{introduction}
+\input{model}
+\input{relatedwork}
+\input{coexistence}
+\input{Evaluation}
+
+
+\section{Conclusion}\label{sec:conclusion}
+To Do ..... 
+
+%\section*{Acknowledgments}
+\begin{acks}
+This work was supported by NSF through grants ............ ............. ...............  and by the Rumble Fellowship. 
+\end{acks}
+
+
+
+\bibliographystyle{ACM-Reference-Format}
+%\bibliographystyle{plain}
+\bibliography{whitespacebib,bibfile} 
+
+\end{document}

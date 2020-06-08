@@ -1,0 +1,24 @@
+ %!TEX root = coexistence_paper.tex
+\section{Evaluation}
+\subsection{Experiments}
+
+\noindent{\bf Experiment Plan} 
+\revise{We will test the Qlearning MAC under the following setups:
+\begin{itemize}
+    \item Interference caused by co-existing LoRa networks, where the nodes are LoRa class A and B end devices following Pure ALOHA mac protocol. 
+   % \item Interference caused by co-existing SNOW networks, where the nodes use CSMA-CA with random backoff and a location-aware MAC protocol as introduced in~\cite{snow2}. 
+    \item Interference caused by LoRa networks(Class A and B) using slotted ALOHA mac protocol. 
+    \item Interference caused by a combination of above three
+\end{itemize}
+}
+The metrics for evaluating the Qlearning MAC are energy consumption, latency and reliability. We will test the energy consumption and latency for convergecast from 25 nodes. Each node in the network other than the base station will generate a packet after some fixed interval, we will measure the total energy consumption for successfully transmitting all packets to the base station.  
+We will measure latency by measuring the time to collect all packets at the base station. 
+For reliability we will measure the ratio of successfully decoded packets at the gateway to the number of packets transmitted . 
+
+We can measure the above metrics under varying number of interfering nodes, Q-learning MAC nodes and at various distances. 
+
+We can also measure the learning performance by introducing periodic interference. 
+%we test both with acknowledgement and without acknowledgement to see the performance
+
+\subsection{Simulation}
+\revise{We conducted Simulations using NS-3. In our implementation we used the LoRawan module for NS-3 proposed in~\cite{magrin2019thorough}. We use a custom-build Q-learning agent following our framework and the MAC protocol is also governed by this agent. For a network with 100 co-existing nodes, traditional LoRa suffers in throughput as only 8\% of the total sent packets generated a successful acknowledgement, and most of the nodes were not able to send any packets at all. On the other hand, using Q-learning MAC we could ensure 30\% of the packets were acknowledged by the gateway and none of the nodes were suffering from starvation.} 
