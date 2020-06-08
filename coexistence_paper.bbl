@@ -1,0 +1,836 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{??}{iqr}{[n. d.]}]%
+        {iqrf}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://www.iqrf.org/technology}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{rpm}{[n. d.]}]%
+        {rpma}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{https://www.ingenu.com/technology/rpma}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{das}{[n. d.]}]%
+        {dash7}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://www.dash7-alliance.org}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{wei}{[n. d.]}]%
+        {weightless}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://www.weightless.org}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{ecg}{[n. d.]}]%
+        {ecgsmiot}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{https://www.gsma.com/iot/wp-content/uploads/2016/10/3GPP-Low-Power-Wide-Area-Technologies-GSMA-White-Paper.pdf
+  }.}
+
+
+\bibitem[\protect\citeauthoryear{??}{nbi}{[n. d.]}]%
+        {nbiot}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{https://www.u-blox.com/en/narrowband-iot-nb-iot}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{cat}{[n. d.]}]%
+        {cat}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{https://www.u-blox.com/en/lte-cat-m1}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{FCC}{[n. d.]}]%
+        {FCC_first_order}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{FCC, ET Docket No FCC 08-260, November 2008.}
+
+
+\bibitem[\protect\citeauthoryear{??}{fcc}{[n. d.]}]%
+        {fcc_second_order}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{FCC, Second Memorandum Opinion and Order, ET Docket No FCC 10-174,
+  September 2010.}
+
+
+\bibitem[\protect\citeauthoryear{??}{4Af}{[n. d.]}]%
+        {4Africa}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://www.microsoft.com/africa/4afrika/}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{Goo}{[n. d.]}]%
+        {GoogleAfrica}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{https://sites.google.com/site/tvwsafrica2013/}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{IEE}{[n. d.]}]%
+        {IEE802_af}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://www.radio-electronics.com/info/wireless/wi-fi/ieee-802-11af-white-fi-tv-space.php}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{iee}{[n. d.]}]%
+        {ieee154}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://standards.ieee.org/about/get/802/802.15.html}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{IEE}{[n. d.]a}]%
+        {IEE802_19}
+ \bibinfo{year}{[n. d.]}\natexlab{a}.
+\newblock \bibinfo{title}{{IEEE} 802.19}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://www.ieee802.org/19/}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{IEE}{[n. d.]b}]%
+        {IEEE802_22}
+ \bibinfo{year}{[n. d.]}\natexlab{b}.
+\newblock \bibinfo{title}{{IEEE} 802.22}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://www.ieee802.org/22/}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{lor}{[n. d.]}]%
+        {lorawan}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \bibinfo{title}{Lo{R}a{WAN}}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{https://www.lora-alliance.org}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{ngm}{[n. d.]}]%
+        {ngmn}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \bibinfo{title}{ngmn}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://www.ngmn.org}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{sig}{[n. d.]}]%
+        {sigfox}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \bibinfo{title}{{SIGFOX}}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://sigfox.com}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{dbr}{[n. d.]}]%
+        {dbreq}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \bibinfo{title}{Spectrum {P}olicy {T}ask {F}orce {R}eports}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{http://www.fcc.gov/sptf/reports.html}.}
+
+
+\bibitem[\protect\citeauthoryear{??}{tel}{[n. d.]}]%
+        {telensa}
+ \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \bibinfo{title}{Telensa}.
+\newblock   (\bibinfo{year}{[n. d.]}).
+\newblock
+\newblock
+\shownote{\url{https://www.telensa.com}.}
+
+
+\bibitem[\protect\citeauthoryear{Alexandri, Martinez, and Zeghlache}{Alexandri
+  et~al\mbox{.}}{2002}]%
+        {QoS2}
+\bibfield{author}{\bibinfo{person}{E. Alexandri}, \bibinfo{person}{G.
+  Martinez}, {and} \bibinfo{person}{D. Zeghlache}.}
+  \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{A distributed reinforcement learning approach to
+  maximize resource utilization and control handover dropping in multimedia
+  wireless networks}. In \bibinfo{booktitle}{{\em The 13th IEEE International
+  Symposium on Personal, Indoor and Mobile Radio Communications}},
+  Vol.~\bibinfo{volume}{5}. \bibinfo{pages}{2249--2253}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{alliance}{alliance}{2017}]%
+        {LoRaWAN_spec_v1.1}
+\bibfield{author}{\bibinfo{person}{LoRa alliance}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{{LoRaWAN ADR}}.
+\newblock
+  \bibinfo{howpublished}{\url{https://lora-alliance.org/resource-hub/lorawanr-specification-v11}}.
+    (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Arroyo-Valles, Alaiz-Rodriguez,
+  Guerrero-Curieses, and Cid-Sueiro}{Arroyo-Valles et~al\mbox{.}}{2007}]%
+        {RLRouting4}
+\bibfield{author}{\bibinfo{person}{R. Arroyo-Valles}, \bibinfo{person}{R.
+  Alaiz-Rodriguez}, \bibinfo{person}{A. Guerrero-Curieses}, {and}
+  \bibinfo{person}{J. Cid-Sueiro}.} \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Q-Probabilistic Routing in Wireless Sensor
+  Networks}. In \bibinfo{booktitle}{{\em 2007 3rd International Conference on
+  Intelligent Sensors, Sensor Networks and Information}}.
+  \bibinfo{pages}{1--6}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bahl, Chandra, Moscibroda, Murty, and
+  Welsh}{Bahl et~al\mbox{.}}{[n. d.]}]%
+        {ws_sigcomm09}
+\bibfield{author}{\bibinfo{person}{Paramvir Bahl}, \bibinfo{person}{Ranveer
+  Chandra}, \bibinfo{person}{Thomas Moscibroda}, \bibinfo{person}{Rohan Murty},
+  {and} \bibinfo{person}{Matt Welsh}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{White space networking with wi-fi like
+  connectivity}. In \bibinfo{booktitle}{{\em SIGCOMM '09}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Balamurthi, Joshi, Nguyen, Sadek, Shellhammer,
+  and Shen}{Balamurthi et~al\mbox{.}}{[n. d.]}]%
+        {ws_dyspan11}
+\bibfield{author}{\bibinfo{person}{R. Balamurthi}, \bibinfo{person}{H. Joshi},
+  \bibinfo{person}{C. Nguyen}, \bibinfo{person}{A. Sadek}, \bibinfo{person}{S.
+  Shellhammer}, {and} \bibinfo{person}{C. Shen}.} \bibinfo{year}{[n.
+  d.]}\natexlab{}.
+\newblock \showarticletitle{A {TV} white space spectrum sensing prototype}. In
+  \bibinfo{booktitle}{{\em DySpan '11}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dong, Agrawal, and Sivalingam}{Dong
+  et~al\mbox{.}}{2007}]%
+        {RLRouting2}
+\bibfield{author}{\bibinfo{person}{S. Dong}, \bibinfo{person}{P. Agrawal},
+  {and} \bibinfo{person}{K. Sivalingam}.} \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Reinforcement Learning Based Geographic Routing
+  Protocol for UWB Wireless Sensor Network}. In \bibinfo{booktitle}{{\em IEEE
+  GLOBECOM 2007 - IEEE Global Telecommunications Conference}}.
+  \bibinfo{pages}{652--656}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Eletreby, Zhang, Kumar, and
+  Ya\u{g}an}{Eletreby et~al\mbox{.}}{2017}]%
+        {Choir}
+\bibfield{author}{\bibinfo{person}{Rashad Eletreby}, \bibinfo{person}{Diana
+  Zhang}, \bibinfo{person}{Swarun Kumar}, {and} \bibinfo{person}{Osman
+  Ya\u{g}an}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Empowering Low-Power Wide Area Networks in Urban
+  Settings}. In \bibinfo{booktitle}{{\em Proceedings of the Conference of the
+  ACM Special Interest Group on Data Communication}} {\em
+  (\bibinfo{series}{SIGCOMM '17})}. \bibinfo{pages}{309--321}.
+\newblock
+\showISBNx{978-1-4503-4653-5}
+
+
+\bibitem[\protect\citeauthoryear{Feng, Zhang, and Zhang}{Feng
+  et~al\mbox{.}}{[n. d.]}]%
+        {database1}
+\bibfield{author}{\bibinfo{person}{X. Feng}, \bibinfo{person}{J. Zhang}, {and}
+  \bibinfo{person}{Q. Zhang}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{Database-assisted multi-{AP} network on {TV} white
+  spaces: Architecture, spectrum allocation and {AP} discovery}. In
+  \bibinfo{booktitle}{{\em DySpan '11}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Forster and Murphy}{Forster and
+  Murphy}{2007}]%
+        {RLRouting3}
+\bibfield{author}{\bibinfo{person}{A. Forster} {and} \bibinfo{person}{A.~L.
+  Murphy}.} \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{FROMS: Feedback Routing for Optimizing Multiple
+  Sinks in WSN with Reinforcement Learning}. In \bibinfo{booktitle}{{\em 2007
+  3rd International Conference on Intelligent Sensors, Sensor Networks and
+  Information}}. \bibinfo{pages}{371--376}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Georgiou and Raza}{Georgiou and Raza}{2017}]%
+        {lorascale}
+\bibfield{author}{\bibinfo{person}{O. Georgiou} {and} \bibinfo{person}{U.
+  Raza}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Low Power Wide Area Network Analysis: Can LoRa
+  Scale?}
+\newblock \bibinfo{journal}{{\em IEEE Wireless Communications Letters\/}}
+  \bibinfo{volume}{6}, \bibinfo{number}{2} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{162--165}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gurney, Buchwald, Ecklund, Kuffner, and
+  Grosspietsch}{Gurney et~al\mbox{.}}{[n. d.]}]%
+        {database3}
+\bibfield{author}{\bibinfo{person}{D. Gurney}, \bibinfo{person}{G. Buchwald},
+  \bibinfo{person}{L. Ecklund}, \bibinfo{person}{S. Kuffner}, {and}
+  \bibinfo{person}{J. Grosspietsch}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{Geo-location database techniques for incumbent
+  protection in the {TV}}. In \bibinfo{booktitle}{{\em DySpan '08}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Harrison, Muthukumar, and Sahai}{Harrison
+  et~al\mbox{.}}{2015}]%
+        {harrison2015whitespace}
+\bibfield{author}{\bibinfo{person}{Kate Harrison}, \bibinfo{person}{Vidya
+  Muthukumar}, {and} \bibinfo{person}{Anant Sahai}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Whitespace Evaluation SofTware (WEST) and its
+  applications to whitespace in Canada and Australia}. In
+  \bibinfo{booktitle}{{\em Dynamic Spectrum Access Networks (DySPAN), 2015 IEEE
+  International Symposium on}}. IEEE, \bibinfo{pages}{47--58}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hasan, Heimerl, Harrison, Ali, Roberts, Sahai,
+  and Brewer}{Hasan et~al\mbox{.}}{2014}]%
+        {hasan2014gsm}
+\bibfield{author}{\bibinfo{person}{Shaddi Hasan}, \bibinfo{person}{Kurtis
+  Heimerl}, \bibinfo{person}{Kate Harrison}, \bibinfo{person}{Kashif Ali},
+  \bibinfo{person}{Sean Roberts}, \bibinfo{person}{Anant Sahai}, {and}
+  \bibinfo{person}{Eric Brewer}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{GSM whitespaces: An opportunity for rural cellular
+  service}. In \bibinfo{booktitle}{{\em Dynamic Spectrum Access Networks
+  (DYSPAN), 2014 IEEE International Symposium on}}. IEEE,
+  \bibinfo{pages}{271--282}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kim and Shin}{Kim and Shin}{[n. d.]a}]%
+        {ws_dyspan08_kim}
+\bibfield{author}{\bibinfo{person}{H. Kim} {and} \bibinfo{person}{K.~G. Shin}.}
+  \bibinfo{year}{[n. d.]}\natexlab{a}.
+\newblock \showarticletitle{Fast Discovery of Spectrum Opportunities in
+  Cognitive Radio Networks}. In \bibinfo{booktitle}{{\em DySpan '08}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kim and Shin}{Kim and Shin}{[n. d.]b}]%
+        {ws_mobicom08}
+\bibfield{author}{\bibinfo{person}{H. Kim} {and} \bibinfo{person}{K.~G. Shin}.}
+  \bibinfo{year}{[n. d.]}\natexlab{b}.
+\newblock \showarticletitle{In-band Spectrum Sensing in Cognitive Radio
+  Networks: Energy Detection or Feature Detection?}. In
+  \bibinfo{booktitle}{{\em MobiCom '08}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Krupka, Vojtech, and Neruda}{Krupka
+  et~al\mbox{.}}{2016}]%
+        {lp1coexistence1}
+\bibfield{author}{\bibinfo{person}{L. Krupka}, \bibinfo{person}{L. Vojtech},
+  {and} \bibinfo{person}{M. Neruda}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{The issue of LPWAN technology coexistence in
+  {I}o{T} environment}. In \bibinfo{booktitle}{{\em 2016 17th International
+  Conference on Mechatronics - Mechatronika (ME)}}. \bibinfo{pages}{1--8}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kumar, Karandikar, Naik, Khaturia, Saha,
+  Arora, and Singh}{Kumar et~al\mbox{.}}{2016}]%
+        {kumar}
+\bibfield{author}{\bibinfo{person}{Animesh Kumar}, \bibinfo{person}{Abhay
+  Karandikar}, \bibinfo{person}{Gaurang Naik}, \bibinfo{person}{Meghna
+  Khaturia}, \bibinfo{person}{Shubham Saha}, \bibinfo{person}{Mahak Arora},
+  {and} \bibinfo{person}{Jaspreet Singh}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Toward enabling broadband for a billion plus
+  population with TV white spaces}.
+\newblock \bibinfo{journal}{{\em IEEE Communications Magazine\/}}
+  \bibinfo{volume}{54}, \bibinfo{number}{7} (\bibinfo{year}{2016}),
+  \bibinfo{pages}{28--34}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Wu, Wu, Zhang, and Chen}{Liu
+  et~al\mbox{.}}{[n. d.]}]%
+        {FIWEX}
+\bibfield{author}{\bibinfo{person}{Dongxin Liu}, \bibinfo{person}{Zhihao Wu},
+  \bibinfo{person}{Fan Wu}, \bibinfo{person}{Yuan Zhang}, {and}
+  \bibinfo{person}{Guihai Chen}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{F{IWEX}: Compressive Sensing Based Cost-Efficient
+  Indoor White Space Exploration}. In \bibinfo{booktitle}{{\em MobiHoc '15}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu and Elhanany}{Liu and Elhanany}{2006}]%
+        {RLMAC}
+\bibfield{author}{\bibinfo{person}{Zhenzhen Liu} {and} \bibinfo{person}{I.
+  Elhanany}.} \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{R{L-MAC}: A {Q}o{S}-Aware Reinforcement Learning
+  based {MAC} Protocol for Wireless Sensor Networks}. In
+  \bibinfo{booktitle}{{\em 2006 IEEE International Conference on Networking,
+  Sensing and Control}}. \bibinfo{pages}{768--773}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{LTE Advanced}{LTE Advanced}{2017}]%
+        {LTE_advancedpro}
+LTE Advanced \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{L{TE} {A}dvanced {P}ro}.
+\newblock   (\bibinfo{year}{2017}).
+\newblock
+\newblock
+\shownote{\url{https://www.qualcomm.com/invention/technologies/lte/advanced-pro}.}
+
+
+\bibitem[\protect\citeauthoryear{Luo, Gao, and Huang}{Luo et~al\mbox{.}}{[n.
+  d.]}]%
+        {hysim}
+\bibfield{author}{\bibinfo{person}{Yuan Luo}, \bibinfo{person}{Lin Gao}, {and}
+  \bibinfo{person}{Jianwei Huang}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{Hy{SIM}: A hybrid spectrum and information market
+  for {TV} white space networks}. In \bibinfo{booktitle}{{\em INFOCOM '15}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Magrin, Capuzzo, and Zanella}{Magrin
+  et~al\mbox{.}}{2019}]%
+        {magrin2019thorough}
+\bibfield{author}{\bibinfo{person}{Davide Magrin}, \bibinfo{person}{Martina
+  Capuzzo}, {and} \bibinfo{person}{Andrea Zanella}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{A Thorough Study of LoRaWAN Performance Under
+  Different Parameter Settings}.
+\newblock \bibinfo{journal}{{\em IEEE Internet of Things Journal\/}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Marek}{Marek}{2016}]%
+        {comcast}
+\bibfield{author}{\bibinfo{person}{S Marek}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \bibinfo{title}{Comcast Will Test LoRaWAN IoT Networks in Two
+  Markets}.
+\newblock   (\bibinfo{year}{2016}).
+\newblock
+\newblock
+\shownote{\url{https://www.sdxcentral.com/articles/news/comcast-will-test-lora-iot-network-two-markets/2016/10/}.}
+
+
+\bibitem[\protect\citeauthoryear{Mekkia, Bajica, Chaxela, and Meyer}{Mekkia
+  et~al\mbox{.}}{2018}]%
+        {comparativestudylpwan}
+\bibfield{author}{\bibinfo{person}{Kais Mekkia}, \bibinfo{person}{Eddy Bajica},
+  \bibinfo{person}{Frederic Chaxela}, {and} \bibinfo{person}{Fernand Meyer}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{A comparative study of LPWAN technologies for
+  large-scale IoT deployment}. In \bibinfo{booktitle}{{\em ICT Express}}.
+\newblock
+\showDOI{%
+\url{https://doi.org/10.1016/j.icte.2017.12.005}}
+
+
+\bibitem[\protect\citeauthoryear{Murty, Chandra, Moscibroda, and Bahl}{Murty
+  et~al\mbox{.}}{[n. d.]}]%
+        {database2}
+\bibfield{author}{\bibinfo{person}{R. Murty}, \bibinfo{person}{R. Chandra},
+  \bibinfo{person}{T. Moscibroda}, {and} \bibinfo{person}{P. Bahl}.}
+  \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{Sense{L}ess: A database-driven white spaces
+  network}. In \bibinfo{booktitle}{{\em DySpan '11}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Qin, Liu, Li, and McCann}{Qin
+  et~al\mbox{.}}{2017}]%
+        {ICC_coexistence}
+\bibfield{author}{\bibinfo{person}{Z. Qin}, \bibinfo{person}{Y. Liu},
+  \bibinfo{person}{G.~Y. Li}, {and} \bibinfo{person}{J.~A. McCann}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Modelling and analysis of low-power wide-area
+  networks}. In \bibinfo{booktitle}{{\em 2017 IEEE International Conference on
+  Communications (ICC)}}. \bibinfo{pages}{1--7}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Raza, Kulkarni, and Sooriyabandara}{Raza
+  et~al\mbox{.}}{2017}]%
+        {LPWANSurvey222}
+\bibfield{author}{\bibinfo{person}{U. Raza}, \bibinfo{person}{P. Kulkarni},
+  {and} \bibinfo{person}{M. Sooriyabandara}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Low Power Wide Area Networks: An Overview}.
+\newblock \bibinfo{journal}{{\em IEEE Communications Surveys Tutorials\/}}
+  \bibinfo{volume}{19}, \bibinfo{number}{2} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{855--873}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Roberts, Garnett, and Chandra}{Roberts
+  et~al\mbox{.}}{[n. d.]}]%
+        {MSRAfrica}
+\bibfield{author}{\bibinfo{person}{Sid Roberts}, \bibinfo{person}{Paul
+  Garnett}, {and} \bibinfo{person}{Ranveer Chandra}.} \bibinfo{year}{[n.
+  d.]}\natexlab{}.
+\newblock \showarticletitle{Connecting Africa Using the TV White Spaces: From
+  Research to Real World Deployments}. In \bibinfo{booktitle}{{\em LANMAN
+  '15}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Saeed, Harras, Zegura, and Ammar}{Saeed
+  et~al\mbox{.}}{2017}]%
+        {saeed2017local}
+\bibfield{author}{\bibinfo{person}{Ahmed Saeed}, \bibinfo{person}{Khaled~A
+  Harras}, \bibinfo{person}{Ellen Zegura}, {and} \bibinfo{person}{Mostafa
+  Ammar}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Local and Low-Cost White Space Detection}. In
+  \bibinfo{booktitle}{{\em Distributed Computing Systems (ICDCS), 2017 IEEE
+  37th International Conference on}}. IEEE, \bibinfo{pages}{503--516}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Saifullah, Rahman, Ismail, Lu, Chandra, and
+  Liu}{Saifullah et~al\mbox{.}}{2016}]%
+        {snow}
+\bibfield{author}{\bibinfo{person}{Abusayeed Saifullah},
+  \bibinfo{person}{Mahbubur Rahman}, \bibinfo{person}{Dali Ismail},
+  \bibinfo{person}{Chenyang Lu}, \bibinfo{person}{Ranveer Chandra}, {and}
+  \bibinfo{person}{Jie Liu}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{{SNOW}: {S}ensor Network over White Spaces}. In
+  \bibinfo{booktitle}{{\em SenSys '16 (Proceedings of the 14th ACM Conference
+  on Embedded Network Sensor Systems)}}. \bibinfo{publisher}{ACM},
+  \bibinfo{pages}{272--285}.
+\newblock
+\showURL{%
+\url{http://doi.acm.org/10.1145/2994551.2994552}}
+
+
+\bibitem[\protect\citeauthoryear{Saifullah, Rahman, Ismail, Lu, Liu, and
+  Chandra}{Saifullah et~al\mbox{.}}{2017}]%
+        {snow2}
+\bibfield{author}{\bibinfo{person}{Abusayeed Saifullah},
+  \bibinfo{person}{Mahbubur Rahman}, \bibinfo{person}{Dali Ismail},
+  \bibinfo{person}{Chenyang Lu}, \bibinfo{person}{Jie Liu}, {and}
+  \bibinfo{person}{Ranveer Chandra}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Enabling Reliable, Asynchronous, and Bidirectional
+  Communication in Sensor Networks over White Spaces}. In
+  \bibinfo{booktitle}{{\em SenSys '17 (Proceedings of the 15th ACM Conference
+  on Embedded Network Sensor Systems)}}. \bibinfo{publisher}{ACM},
+  \bibinfo{pages}{9:1--9:14}.
+\newblock
+\showURL{%
+\url{http://www.cs.wayne.edu/saifullah//sensys17.pdf}}
+\newblock
+\shownote{To appear.}
+
+
+\bibitem[\protect\citeauthoryear{Saifullah, Rahman, Ismail, Lu, Liu, and
+  Chandra}{Saifullah et~al\mbox{.}}{2018}]%
+        {ton_snow}
+\bibfield{author}{\bibinfo{person}{Abusayeed Saifullah},
+  \bibinfo{person}{Mahbubur Rahman}, \bibinfo{person}{Dali Ismail},
+  \bibinfo{person}{Chenyang Lu}, \bibinfo{person}{Jie Liu}, {and}
+  \bibinfo{person}{Ranveer Chandra}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Low-Power Wide-Area Networks over White Spaces}.
+\newblock \bibinfo{journal}{{\em ACM/IEEE Transactions on Networking\/}}
+  \bibinfo{volume}{26}, \bibinfo{number}{4} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{1893--1906}.
+\newblock
+\showDOI{%
+\url{https://doi.org/10.1109/TNET.2018.2856197}}
+
+
+\bibitem[\protect\citeauthoryear{Sikora and Groza}{Sikora and Groza}{2005}]%
+        {coexistence_24}
+\bibfield{author}{\bibinfo{person}{A. Sikora} {and} \bibinfo{person}{V.~F.
+  Groza}.} \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{Coexistence of IEEE802.15.4 with other Systems in
+  the 2.4 GHz-ISM-Band}. In \bibinfo{booktitle}{{\em 2005 IEEE
+  Instrumentationand Measurement Technology Conference Proceedings}},
+  Vol.~\bibinfo{volume}{3}. \bibinfo{pages}{1786--1791}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sum, Zhou, Lu, Funada, Kojima, and Harada}{Sum
+  et~al\mbox{.}}{[n. d.]}]%
+        {802154m}
+\bibfield{author}{\bibinfo{person}{Chin-Sean Sum}, \bibinfo{person}{Ming-Tuo
+  Zhou}, \bibinfo{person}{Liru Lu}, \bibinfo{person}{R. Funada},
+  \bibinfo{person}{F. Kojima}, {and} \bibinfo{person}{H. Harada}.}
+  \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{I{EEE} 802.15.4m: The first low rate wireless
+  personal area networks operating in {TV} white space}. In
+  \bibinfo{booktitle}{{\em ICON '12}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sun, Tatsumi, and Zhao}{Sun
+  et~al\mbox{.}}{2002}]%
+        {RLRouting1}
+\bibfield{author}{\bibinfo{person}{R. Sun}, \bibinfo{person}{S. Tatsumi}, {and}
+  \bibinfo{person}{G. Zhao}.} \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{Q-MAP: a novel multicast routing method in wireless
+  ad hoc networks with multiagent reinforcement learning}. In
+  \bibinfo{booktitle}{{\em TENCON '02. Proceedings. 2002 IEEE Region 10
+  Conference on Computers, Communications, Control and Power Engineering}},
+  Vol.~\bibinfo{volume}{1}. \bibinfo{pages}{667--670}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sur and Zhang}{Sur and Zhang}{[n. d.]}]%
+        {linkasymmetry}
+\bibfield{author}{\bibinfo{person}{Sanjib Sur} {and} \bibinfo{person}{Xinyu
+  Zhang}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{Bridging link power asymmetry in mobile whitespace
+  networks}. In \bibinfo{booktitle}{{\em INFOCOM '15}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sutton and Barto}{Sutton and Barto}{1998}]%
+        {RLBook}
+\bibfield{author}{\bibinfo{person}{R.~S. Sutton} {and} \bibinfo{person}{A.~G
+  Barto}.} \bibinfo{year}{1998}\natexlab{}.
+\newblock \bibinfo{booktitle}{{\em Reinforcement Learning: An Introduction}}.
+\newblock \bibinfo{publisher}{The MIT Press}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tanenbaum and Wetherall}{Tanenbaum and
+  Wetherall}{2011}]%
+        {tanenbaum}
+\bibfield{author}{\bibinfo{person}{Andrew Tanenbaum} {and}
+  \bibinfo{person}{David Wetherall}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \bibinfo{booktitle}{{\em Computer Networks (5th Edition)}}.
+\newblock \bibinfo{publisher}{Prentice Hall}.
+\newblock
+\newblock
+\shownote{Chapter 4.}
+
+
+\bibitem[\protect\citeauthoryear{Voigt, Bor, Roedig, and Alonso}{Voigt
+  et~al\mbox{.}}{2017}]%
+        {voigt2016mitigating}
+\bibfield{author}{\bibinfo{person}{Thiemo Voigt}, \bibinfo{person}{Martin Bor},
+  \bibinfo{person}{Utz Roedig}, {and} \bibinfo{person}{Juan Alonso}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Mitigating Inter-network Interference in LoRa
+  Networks}. In \bibinfo{booktitle}{{\em Proceedings of the 2017 International
+  Conference on Embedded Wireless Systems and Networks}} {\em
+  (\bibinfo{series}{EWSN '17})}. \bibinfo{pages}{323--328}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Chen, Dutta, and Chiang}{Wang
+  et~al\mbox{.}}{[n. d.]}]%
+        {videostreaming}
+\bibfield{author}{\bibinfo{person}{Xiaoli Wang}, \bibinfo{person}{Jiasi Chen},
+  \bibinfo{person}{Aveek Dutta}, {and} \bibinfo{person}{Mung Chiang}.}
+  \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{Adaptive video streaming over whitespace: {SVC} for
+  3-Tiered spectrum sharing}. In \bibinfo{booktitle}{{\em INFOCOM '15}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yang, Xu, and Gidlund}{Yang
+  et~al\mbox{.}}{2010}]%
+        {survey802154}
+\bibfield{author}{\bibinfo{person}{D. Yang}, \bibinfo{person}{Y. Xu}, {and}
+  \bibinfo{person}{M. Gidlund}.} \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Coexistence of IEEE802.15.4 based networks: A
+  survey}. In \bibinfo{booktitle}{{\em IECON 2010 - 36th Annual Conference on
+  IEEE Industrial Electronics Society}}. \bibinfo{pages}{2107--2113}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yang, Xu, and Gidlund}{Yang
+  et~al\mbox{.}}{2011}]%
+        {coexistence_survey}
+\bibfield{author}{\bibinfo{person}{Dong Yang}, \bibinfo{person}{Youzhi Xu},
+  {and} \bibinfo{person}{Mikael Gidlund}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Wireless Coexistence between IEEE 802.11- and IEEE
+  802.15.4-Based Networks: A Survey}.
+\newblock \bibinfo{journal}{{\em International Journal of Distributed Sensor
+  Networks\/}} \bibinfo{volume}{7}, \bibinfo{number}{1} (\bibinfo{year}{2011}),
+  \bibinfo{pages}{912152}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yang, Hou, Cao, Zhao, and Zheng}{Yang
+  et~al\mbox{.}}{[n. d.]}]%
+        {ws_nsdi10}
+\bibfield{author}{\bibinfo{person}{L. Yang}, \bibinfo{person}{W. Hou},
+  \bibinfo{person}{L. Cao}, \bibinfo{person}{B. Zhao}, {and}
+  \bibinfo{person}{H. Zheng}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{Supporting demanding wireless applications with
+  frequency-agile radios}. In \bibinfo{booktitle}{{\em NSDI '10}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yau, Komisarczuk, and Paul}{Yau
+  et~al\mbox{.}}{2010}]%
+        {cognitive1}
+\bibfield{author}{\bibinfo{person}{K.~L.~A. Yau}, \bibinfo{person}{P.
+  Komisarczuk}, {and} \bibinfo{person}{D.~T. Paul}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Enhancing network performance in Distributed
+  Cognitive Radio Networks using single-agent and multi-agent Reinforcement
+  Learning}. In \bibinfo{booktitle}{{\em IEEE Local Computer Network
+  Conference}}. \bibinfo{pages}{152--159}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yau, Komisarczuk, and Teal}{Yau
+  et~al\mbox{.}}{2012}]%
+        {RLSurvey}
+\bibfield{author}{\bibinfo{person}{Kok-Lim~Alvin Yau}, \bibinfo{person}{Peter
+  Komisarczuk}, {and} \bibinfo{person}{Paul~D. Teal}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Review: Reinforcement Learning for Context
+  Awareness and Intelligence in Wireless Networks: Review, New Features and
+  Open Issues}.
+\newblock \bibinfo{journal}{{\em J. Netw. Comput. Appl.\/}}
+  \bibinfo{volume}{35}, \bibinfo{number}{1} (\bibinfo{date}{Jan.}
+  \bibinfo{year}{2012}), \bibinfo{pages}{253--267}.
+\newblock
+\showISSN{1084-8045}
+
+
+\bibitem[\protect\citeauthoryear{Ying, Zhang, Yan, Zhang, Chen, and
+  Chandra}{Ying et~al\mbox{.}}{[n. d.]}]%
+        {ws_mobicom13}
+\bibfield{author}{\bibinfo{person}{Xuhang Ying}, \bibinfo{person}{Jincheng
+  Zhang}, \bibinfo{person}{Lichao Yan}, \bibinfo{person}{Guanglin Zhang},
+  \bibinfo{person}{Minghua Chen}, {and} \bibinfo{person}{Ranveer Chandra}.}
+  \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{Exploring Indoor White Spaces in Metropolises}. In
+  \bibinfo{booktitle}{{\em MobiCom '13}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yu, Wong, and Leung}{Yu et~al\mbox{.}}{2008}]%
+        {QoS1}
+\bibfield{author}{\bibinfo{person}{F.~R. Yu}, \bibinfo{person}{V.~W.~S. Wong},
+  {and} \bibinfo{person}{V.~C.~M. Leung}.} \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{A New QoS Provisioning Method for Adaptive
+  Multimedia in Wireless Networks}.
+\newblock \bibinfo{journal}{{\em IEEE Transactions on Vehicular Technology\/}}
+  \bibinfo{volume}{57}, \bibinfo{number}{3} (\bibinfo{year}{2008}),
+  \bibinfo{pages}{1899--1909}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang, Chowdhery, Bahl, Jamieson, and
+  Banerjee}{Zhang et~al\mbox{.}}{2015}]%
+        {zhang2015design}
+\bibfield{author}{\bibinfo{person}{Tan Zhang}, \bibinfo{person}{Aakanksha
+  Chowdhery}, \bibinfo{person}{Paramvir~Victor Bahl}, \bibinfo{person}{Kyle
+  Jamieson}, {and} \bibinfo{person}{Suman Banerjee}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{The design and implementation of a wireless video
+  surveillance system}. In \bibinfo{booktitle}{{\em Proceedings of the 21st
+  Annual International Conference on Mobile Computing and Networking}}. ACM,
+  \bibinfo{pages}{426--438}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang, Leng, and Banerjee}{Zhang
+  et~al\mbox{.}}{[n. d.]}]%
+        {vehiclebased}
+\bibfield{author}{\bibinfo{person}{Tan Zhang}, \bibinfo{person}{Ning Leng},
+  {and} \bibinfo{person}{Suman Banerjee}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{A Vehicle-based Measurement Framework for Enhancing
+  Whitespace Spectrum Databases}. In \bibinfo{booktitle}{{\em MobiCom '14}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang and Knightly}{Zhang and Knightly}{[n.
+  d.]}]%
+        {WATCH}
+\bibfield{author}{\bibinfo{person}{Xu Zhang} {and} \bibinfo{person}{Edward~W.
+  Knightly}.} \bibinfo{year}{[n. d.]}\natexlab{}.
+\newblock \showarticletitle{W{ATCH}: Wi{F}i in Active {TV} Channels}. In
+  \bibinfo{booktitle}{{\em MobiHoc '15}}.
+\newblock
+
+
+\end{thebibliography}

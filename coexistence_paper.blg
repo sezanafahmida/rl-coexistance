@@ -1,0 +1,369 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: coexistence_paper.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: whitespacebib.bib
+Database file #2: bibfile.bib
+Repeated entry---line 152 of file bibfile.bib
+ : @inproceedings{snow
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 170 of file bibfile.bib
+ : @inproceedings{snow2
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 482 of file bibfile.bib
+ : @misc{FCC_first_order
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 488 of file bibfile.bib
+ : @misc{fcc_second_order
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 542 of file bibfile.bib
+ : @misc{sigfox
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 547 of file bibfile.bib
+ : @misc{NBIoT
+ :            ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in lorawan
+Warning--no author, editor, organization, or key in lorawan
+Warning--to sort, need author or key in lorawan
+Warning--no key, author in sigfox
+Warning--no author, editor, organization, or key in sigfox
+Warning--to sort, need author or key in sigfox
+Warning--no key, author in iqrf
+Warning--no author, editor, organization, or key in iqrf
+Warning--to sort, need author or key in iqrf
+Warning--no key, author in rpma
+Warning--no author, editor, organization, or key in rpma
+Warning--to sort, need author or key in rpma
+Warning--no key, author in dash7
+Warning--no author, editor, organization, or key in dash7
+Warning--to sort, need author or key in dash7
+Warning--no key, author in weightless
+Warning--no author, editor, organization, or key in weightless
+Warning--to sort, need author or key in weightless
+Warning--no key, author in telensa
+Warning--no author, editor, organization, or key in telensa
+Warning--to sort, need author or key in telensa
+Warning--no key, author in ecgsmiot
+Warning--no author, editor, organization, or key in ecgsmiot
+Warning--to sort, need author or key in ecgsmiot
+Warning--no key, author in nbiot
+Warning--no author, editor, organization, or key in nbiot
+Warning--to sort, need author or key in nbiot
+Warning--no key, author in cat
+Warning--no author, editor, organization, or key in cat
+Warning--to sort, need author or key in cat
+Warning--no key, author in ngmn
+Warning--no author, editor, organization, or key in ngmn
+Warning--to sort, need author or key in ngmn
+Warning--no key, author in FCC_first_order
+Warning--no author, editor, organization, or key in FCC_first_order
+Warning--to sort, need author or key in FCC_first_order
+Warning--no key, author in fcc_second_order
+Warning--no author, editor, organization, or key in fcc_second_order
+Warning--to sort, need author or key in fcc_second_order
+Warning--no key, author in 4Africa
+Warning--no author, editor, organization, or key in 4Africa
+Warning--to sort, need author or key in 4Africa
+Warning--no key, author in GoogleAfrica
+Warning--no author, editor, organization, or key in GoogleAfrica
+Warning--to sort, need author or key in GoogleAfrica
+Warning--no key, author in IEE802_af
+Warning--no author, editor, organization, or key in IEE802_af
+Warning--to sort, need author or key in IEE802_af
+Warning--no key, author in IEEE802_22
+Warning--no author, editor, organization, or key in IEEE802_22
+Warning--to sort, need author or key in IEEE802_22
+Warning--no key, author in IEE802_19
+Warning--no author, editor, organization, or key in IEE802_19
+Warning--to sort, need author or key in IEE802_19
+Warning--no key, author in dbreq
+Warning--no author, editor, organization, or key in dbreq
+Warning--to sort, need author or key in dbreq
+Warning--no key, author in ieee154
+Warning--no author, editor, organization, or key in ieee154
+Warning--to sort, need author or key in ieee154
+Warning--no key, author in 4Africa
+Warning--no key, author in 4Africa
+Warning--no key, author in cat
+Warning--no key, author in cat
+Warning--no key, author in dash7
+Warning--no key, author in dash7
+Warning--no key, author in dbreq
+Warning--no key, author in dbreq
+Warning--no key, author in ecgsmiot
+Warning--no key, author in ecgsmiot
+Warning--no key, author in FCC_first_order
+Warning--no key, author in FCC_first_order
+Warning--no key, author in fcc_second_order
+Warning--no key, author in fcc_second_order
+Warning--no key, author in GoogleAfrica
+Warning--no key, author in GoogleAfrica
+Warning--no key, author in IEE802_af
+Warning--no key, author in IEE802_af
+Warning--no key, author in ieee154
+Warning--no key, author in ieee154
+Warning--no key, author in IEE802_19
+Warning--no key, author in IEE802_19
+Warning--no key, author in IEEE802_22
+Warning--no key, author in iqrf
+Warning--no key, author in iqrf
+Warning--no key, author in lorawan
+Warning--no key, author in lorawan
+Warning--no key, author in nbiot
+Warning--no key, author in nbiot
+Warning--no key, author in ngmn
+Warning--no key, author in ngmn
+Warning--no key, author in rpma
+Warning--no key, author in rpma
+Warning--no key, author in sigfox
+Warning--no key, author in sigfox
+Warning--no key, author in telensa
+Warning--no key, author in telensa
+Warning--no key, author in weightless
+Warning--no key, author in weightless
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in iqrf
+Warning--no author, editor, organization, or key in iqrf
+Warning--empty author in iqrf
+Warning--empty year in iqrf
+Warning--no key, author in rpma
+Warning--no author, editor, organization, or key in rpma
+Warning--empty author in rpma
+Warning--empty year in rpma
+Warning--no key, author in dash7
+Warning--no author, editor, organization, or key in dash7
+Warning--empty author in dash7
+Warning--empty year in dash7
+Warning--no key, author in weightless
+Warning--no author, editor, organization, or key in weightless
+Warning--empty author in weightless
+Warning--empty year in weightless
+Warning--no key, author in ecgsmiot
+Warning--no author, editor, organization, or key in ecgsmiot
+Warning--empty author in ecgsmiot
+Warning--empty year in ecgsmiot
+Warning--no key, author in nbiot
+Warning--no author, editor, organization, or key in nbiot
+Warning--empty author in nbiot
+Warning--empty year in nbiot
+Warning--no key, author in cat
+Warning--no author, editor, organization, or key in cat
+Warning--empty author in cat
+Warning--empty year in cat
+Warning--no key, author in FCC_first_order
+Warning--no author, editor, organization, or key in FCC_first_order
+Warning--empty author in FCC_first_order
+Warning--empty year in FCC_first_order
+Warning--no key, author in fcc_second_order
+Warning--no author, editor, organization, or key in fcc_second_order
+Warning--empty author in fcc_second_order
+Warning--empty year in fcc_second_order
+Warning--no key, author in 4Africa
+Warning--no author, editor, organization, or key in 4Africa
+Warning--empty author in 4Africa
+Warning--empty year in 4Africa
+Warning--no key, author in GoogleAfrica
+Warning--no author, editor, organization, or key in GoogleAfrica
+Warning--empty author in GoogleAfrica
+Warning--empty year in GoogleAfrica
+Warning--no key, author in IEE802_af
+Warning--no author, editor, organization, or key in IEE802_af
+Warning--empty author in IEE802_af
+Warning--empty year in IEE802_af
+Warning--no key, author in ieee154
+Warning--no author, editor, organization, or key in ieee154
+Warning--empty author in ieee154
+Warning--empty year in ieee154
+Warning--no key, author in IEE802_19
+Warning--no author, editor, organization, or key in IEE802_19
+Warning--empty author in IEE802_19
+Warning--empty year in IEE802_19
+Warning--no key, author in IEEE802_22
+Warning--no author, editor, organization, or key in IEEE802_22
+Warning--empty author in IEEE802_22
+Warning--empty year in IEEE802_22
+Warning--no key, author in lorawan
+Warning--no author, editor, organization, or key in lorawan
+Warning--empty author in lorawan
+Warning--empty year in lorawan
+Warning--no key, author in ngmn
+Warning--no author, editor, organization, or key in ngmn
+Warning--empty author in ngmn
+Warning--empty year in ngmn
+Warning--no key, author in sigfox
+Warning--no author, editor, organization, or key in sigfox
+Warning--empty author in sigfox
+Warning--empty year in sigfox
+Warning--no key, author in dbreq
+Warning--no author, editor, organization, or key in dbreq
+Warning--empty author in dbreq
+Warning--empty year in dbreq
+Warning--no key, author in telensa
+Warning--no author, editor, organization, or key in telensa
+Warning--empty author in telensa
+Warning--empty year in telensa
+Warning--empty publisher in QoS2
+Warning--empty address in QoS2
+Warning--empty publisher in RLRouting4
+Warning--empty address in RLRouting4
+Warning--empty year in ws_sigcomm09
+Warning--empty publisher in ws_sigcomm09
+Warning--empty address in ws_sigcomm09
+Warning--page numbers missing in both pages and numpages fields in ws_sigcomm09
+Warning--empty year in ws_dyspan11
+Warning--empty publisher in ws_dyspan11
+Warning--empty address in ws_dyspan11
+Warning--page numbers missing in both pages and numpages fields in ws_dyspan11
+Warning--empty publisher in RLRouting2
+Warning--empty address in RLRouting2
+Warning--empty publisher in Choir
+Warning--empty address in Choir
+Warning--empty year in database1
+Warning--empty publisher in database1
+Warning--empty address in database1
+Warning--page numbers missing in both pages and numpages fields in database1
+Warning--empty publisher in RLRouting3
+Warning--empty address in RLRouting3
+Warning--empty year in database3
+Warning--empty publisher in database3
+Warning--empty address in database3
+Warning--page numbers missing in both pages and numpages fields in database3
+Warning--empty publisher in harrison2015whitespace
+Warning--empty address in harrison2015whitespace
+Warning--empty publisher in hasan2014gsm
+Warning--empty address in hasan2014gsm
+Warning--empty year in ws_dyspan08_kim
+Warning--empty publisher in ws_dyspan08_kim
+Warning--empty address in ws_dyspan08_kim
+Warning--page numbers missing in both pages and numpages fields in ws_dyspan08_kim
+Warning--empty year in ws_mobicom08
+Warning--empty publisher in ws_mobicom08
+Warning--empty address in ws_mobicom08
+Warning--page numbers missing in both pages and numpages fields in ws_mobicom08
+Warning--empty publisher in lp1coexistence1
+Warning--empty address in lp1coexistence1
+Warning--empty year in FIWEX
+Warning--empty publisher in FIWEX
+Warning--empty address in FIWEX
+Warning--page numbers missing in both pages and numpages fields in FIWEX
+Warning--empty publisher in RLMAC
+Warning--empty address in RLMAC
+Warning--empty author in LTE_advancedpro
+Warning--empty year in hysim
+Warning--empty publisher in hysim
+Warning--empty address in hysim
+Warning--page numbers missing in both pages and numpages fields in hysim
+Warning--no number and no volume in magrin2019thorough
+Warning--page numbers missing in both pages and numpages fields in magrin2019thorough
+Warning--empty publisher in comparativestudylpwan
+Warning--empty address in comparativestudylpwan
+Warning--page numbers missing in both pages and numpages fields in comparativestudylpwan
+Warning--empty year in database2
+Warning--empty publisher in database2
+Warning--empty address in database2
+Warning--page numbers missing in both pages and numpages fields in database2
+Warning--empty publisher in ICC_coexistence
+Warning--empty address in ICC_coexistence
+Warning--empty year in MSRAfrica
+Warning--empty publisher in MSRAfrica
+Warning--empty address in MSRAfrica
+Warning--page numbers missing in both pages and numpages fields in MSRAfrica
+Warning--empty publisher in saeed2017local
+Warning--empty address in saeed2017local
+Warning--empty address in snow
+Warning--numpages field, but no articleno or eid field, in snow
+Warning--empty address in snow2
+Warning--numpages field, but no articleno or eid field, in snow2
+Warning--empty publisher in coexistence_24
+Warning--empty address in coexistence_24
+Warning--empty year in 802154m
+Warning--empty publisher in 802154m
+Warning--empty address in 802154m
+Warning--page numbers missing in both pages and numpages fields in 802154m
+Warning--empty publisher in RLRouting1
+Warning--empty address in RLRouting1
+Warning--empty year in linkasymmetry
+Warning--empty publisher in linkasymmetry
+Warning--empty address in linkasymmetry
+Warning--page numbers missing in both pages and numpages fields in linkasymmetry
+Warning--empty address in RLBook
+Warning--empty address in tanenbaum
+Warning--empty publisher in voigt2016mitigating
+Warning--empty address in voigt2016mitigating
+Warning--empty year in videostreaming
+Warning--empty publisher in videostreaming
+Warning--empty address in videostreaming
+Warning--page numbers missing in both pages and numpages fields in videostreaming
+Warning--empty publisher in survey802154
+Warning--empty address in survey802154
+Warning--empty year in ws_nsdi10
+Warning--empty publisher in ws_nsdi10
+Warning--empty address in ws_nsdi10
+Warning--page numbers missing in both pages and numpages fields in ws_nsdi10
+Warning--empty publisher in cognitive1
+Warning--empty address in cognitive1
+Warning--empty year in ws_mobicom13
+Warning--empty publisher in ws_mobicom13
+Warning--empty address in ws_mobicom13
+Warning--page numbers missing in both pages and numpages fields in ws_mobicom13
+Warning--empty publisher in zhang2015design
+Warning--empty address in zhang2015design
+Warning--empty year in vehiclebased
+Warning--empty publisher in vehiclebased
+Warning--empty address in vehiclebased
+Warning--page numbers missing in both pages and numpages fields in vehiclebased
+Warning--empty year in WATCH
+Warning--empty publisher in WATCH
+Warning--empty address in WATCH
+Warning--page numbers missing in both pages and numpages fields in WATCH
+You've used 70 entries,
+            5758 wiz_defined-function locations,
+            1630 strings with 25893 characters,
+and the built_in function-call counts, 72464 in all, are:
+= -- 7218
+> -- 2418
+< -- 0
++ -- 765
+- -- 893
+* -- 5443
+:= -- 6900
+add.period$ -- 324
+call.type$ -- 70
+change.case$ -- 458
+chr.to.int$ -- 68
+cite$ -- 442
+duplicate$ -- 6885
+empty$ -- 5009
+format.name$ -- 981
+if$ -- 17375
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 221
+newline$ -- 608
+num.names$ -- 391
+pop$ -- 4048
+preamble$ -- 1
+purify$ -- 864
+quote$ -- 0
+skip$ -- 2123
+stack$ -- 0
+substring$ -- 4453
+swap$ -- 560
+text.length$ -- 199
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1946
+warning$ -- 293
+while$ -- 308
+width$ -- 0
+write$ -- 1197
+(There were 6 error messages)
